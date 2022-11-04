@@ -24,11 +24,7 @@ In this machine learning project on Hand Gesture Recognition, I am going to make
 
 
 
-
-Code Folder Link
-- https://drive.google.com/drive/folders/1i4K4lPyMav3H1BkVYgQMJj05A6zsfvwi?usp=sharing
-
-
+➡️ [Code Folder Link](https://drive.google.com/drive/folders/1i4K4lPyMav3H1BkVYgQMJj05A6zsfvwi?usp=sharing)
 
 
 <div id="header" align="left">

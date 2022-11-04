@@ -29,6 +29,6 @@ In this machine learning project on Hand Gesture Recognition, I am going to make
 
 <div id="header" align="left">
   <a href="https://github.com/kunsh13">
-  <img src="Hand Gesture Recognition/hand_gesture.jpg" width="500"/>
+  <img src="Hand_Gesture_Recognition/hand_gesture.jpg" width="500"/>
   </a>
 </div>

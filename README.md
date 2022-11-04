@@ -33,6 +33,6 @@ Code Folder Link
 
 <div id="header" align="left">
   <a href="https://github.com/kunsh13">
-  <img src="Hand Gesture Recognition/hand_gesture.jpg" width="100"/>
+  <img src="Hand Gesture Recognition/hand_gesture.jpg" width="1000"/>
   </a>
 </div>

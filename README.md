@@ -18,9 +18,9 @@ Hand Detection & gesture recognition has usage in various applications like medi
 In this machine learning project on Hand Gesture Recognition, I am going to make a real-time Hand Gesture Recognizer using the MediaPipe framework and Tensorflow in OpenCV and Python.
 
 ## How does it work
-1. I am using mediapipe library for hand gesture. 
-2. Tensorflow library for machine learning by using trained data.
-3. Using openCV for computer vision. By using input from webcam.
+- 1. I am using mediapipe library for hand gesture. 
+- 2. Tensorflow library for machine learning by using trained data.
+- 3. Using openCV for computer vision. By using input from webcam.
 
 
 
